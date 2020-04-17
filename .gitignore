@@ -1,0 +1,4 @@
+# Data
+poetry/
+# ide
+.idea/
